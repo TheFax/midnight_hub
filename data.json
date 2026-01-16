@@ -1,0 +1,65 @@
+[
+    {
+        "id": "1767824170",
+        "category": "Notizie",
+        "title": "AGI",
+        "url": "https:\/\/www.agi.it\/",
+        "icon": "fa-regular fa-newspaper"
+    },
+    {
+        "id": 1767824873,
+        "category": "Notizie",
+        "title": "Zeus News",
+        "url": "https:\/\/www.zeusnews.it\/",
+        "icon": "fa-solid fa-link"
+    },
+    {
+        "id": "1767824940",
+        "category": "Notizie",
+        "title": "Phoronix",
+        "url": "https:\/\/www.phoronix.com\/",
+        "icon": "fa-brands fa-linux"
+    },
+    {
+        "id": 1768061243,
+        "category": "Notizie",
+        "title": "News Minimalist",
+        "url": "https:\/\/www.newsminimalist.com\/",
+        "icon": "fa-solid fa-chart-column"
+    },
+    {
+        "id": 1768061403,
+        "category": "Notizie",
+        "title": "HD Blog",
+        "url": "https:\/\/www.hdblog.it\/",
+        "icon": "fa-solid fa-microchip"
+    },
+    {
+        "id": 1768062026,
+        "category": "Notizie",
+        "title": "Hacker News",
+        "url": "https:\/\/news.ycombinator.com\/",
+        "icon": "fa-brands fa-hacker-news"
+    },
+    {
+        "id": 1768063535,
+        "category": "Notizie",
+        "title": "GDV",
+        "url": "https:\/\/www.ilgiornaledivicenza.it\/",
+        "icon": "fa-regular fa-newspaper"
+    },
+    {
+        "id": 1768063634,
+        "category": "Attivit\u00e0",
+        "title": "Vicenza Today",
+        "url": "https:\/\/www.vicenzatoday.it\/eventi\/",
+        "icon": "fa-solid fa-square-person-confined"
+    },
+    {
+        "id": 1768063808,
+        "category": "Notizie",
+        "title": "Wired",
+        "url": "https:\/\/www.wired.it\/",
+        "icon": "fa-solid fa-wifi"
+    }
+]
