@@ -2,6 +2,8 @@
 
 A sleek, self-hosted dashboard and link aggregator designed for a relaxed, night-mode aesthetic. Organize your favorite bookmarks into categories with a minimalist interface and a built-in administration panel. Midnight Hub is designed for users who value simplicity and visual comfort.
 
+![Screenshot midnight hub](screenshot.jpg)
+
 ---
 
 ## ✨ Features
